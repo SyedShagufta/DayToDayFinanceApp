@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1048967338195",
+    "project_id": "daytoday-financeapp",
+    "storage_bucket": "daytoday-financeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048967338195:android:8049cb382cc1e925335c26",
+        "android_client_info": {
+          "package_name": "com.example.daytodayfinanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048967338195-tg49io7arhqhjb09o99k4cih8vvg4rgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.daytodayfinanceapp",
+            "certificate_hash": "4aba8f0756ca5f9f3e06cfc099ab6b1b3c629cf4"
+          }
+        },
+        {
+          "client_id": "1048967338195-gv29es6i727vpnup8upekmhuv51qkte8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjOES1tjaRVOrbdhE8HbBDrftSCAFIBUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048967338195-gv29es6i727vpnup8upekmhuv51qkte8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

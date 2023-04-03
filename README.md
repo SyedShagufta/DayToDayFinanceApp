@@ -10,7 +10,7 @@ A few resources to get you started if this is your first Flutter project:
 
 1. clone this app to your system using the following command
 
-git clone https://github.com/SyedShagufta/DayToDayFinanceApp.git
+    git clone https://github.com/SyedShagufta/DayToDayFinanceApp.git
 
 2. Import this project in Android Studio or Vscode
 
